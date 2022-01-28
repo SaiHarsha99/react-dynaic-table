@@ -1,0 +1,14 @@
+body {
+  font-family: Lato;
+  color:maroon;
+  text-align: center;
+}
+a {
+  display: block;
+  padding: 5px;
+}
+
+table, th, td {
+  border:1px solid black;
+  border-color: #9c27b0;
+}
